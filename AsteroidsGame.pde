@@ -52,6 +52,7 @@ public void draw()
       {
         laser.remove(l);
         rock.remove(r);
+        r--;
         break;
       }
     }
